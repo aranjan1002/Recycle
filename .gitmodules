@@ -1,0 +1,3 @@
+[submodule "example-bi-directional-provider-restassured"]
+	path = example-bi-directional-provider-restassured
+	url = ./example-bi-directional-provider-restassured/
